@@ -1,0 +1,102 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "title": "USED Antminer S9",
+      "description": "10.5-14.5 th/s",
+      "price": 137,
+      "currency": "PSU",
+      "favorite": true
+    },
+    {
+      "id": 2,
+      "title": "USED Antminer S9",
+      "description": "10.5-14.5 th/s",
+      "price": 1375.00,
+      "favorite": false
+    },
+    {
+      "id": 3,
+      "title":  "USED Antminer S9",
+      "description": "10.5-14.5 th/s",
+      "price": 1373.00,
+      "currency": "PSU",
+      "favorite": false
+    },
+    {
+      "id": 4,
+      "title":  "USED Antminer S9",
+      "description": "10.5-14.5 th/s",
+      "price": 1375.00,
+      "favorite": false
+    },
+    {
+      "id": 5,
+      "title":  "USED Antminer S9",
+      "description": "10.5-14.5 th/s",
+      "price": 1373.00,
+      "currency": "PSU",
+      "favorite": false
+    },
+    {
+      "id": 6,
+      "title":  "USED Antminer S9",
+      "description": "10.5-14.5 th/s",
+      "price": 1375.00,
+      "favorite": false
+    },
+    {
+      "id": 7,
+      "title":  "USED Antminer S9",
+      "description": "10.5-14.5 th/s",
+      "price": 137,
+      "currency": "PSU",
+      "favorite": true
+    },
+    {
+      "id": 8,
+      "title":  "USED Antminer S9",
+      "description":"10.5-14.5 th/s",
+      "price": 1375.00,
+      "favorite": false
+    },
+    {
+      "id": 9,
+      "title":  "USED Antminer S9",
+      "description": "10.5-14.5 th/s",
+      "price": 1373.00,
+      "currency": "PSU",
+      "favorite": false
+    },
+    {
+      "id": 10,
+      "title":  "USED Antminer S9",
+      "description": "10.5-14.5 th/s",
+      "price": 1375.00,
+      "favorite": false,
+    },
+    {
+      "id": 11,
+      "title":  "USED Antminer S9",
+      "description": "10.5-14.5 th/s",
+      "price": 1373.00,
+      "currency": "PSU",
+      "favorite": false
+    },
+    {
+      "id": 12,
+      "title":  "USED Antminer S9",
+      "description": "10.5-14.5 th/s",
+      "price": 375.00,
+      "favorite": false
+    },
+    {
+      "id": 13,
+      "title":  "USED Antminer S9",
+      "description": "10.5-14.5 th/s",
+      "price": 217.00,
+      "currency": "PSU",
+      "favorite": true
+    }
+  ]
+}
